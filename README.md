@@ -30,7 +30,9 @@ Ao analisar os microdados do Exame Nacional do Ensino Médio (ENEM) em Alagoas n
 
 ## Desenvolvimento
 
-Os microdados do ENEM 2019 são o menor nível de desagregação de dados recolhidos por meio do exame. Eles atendem a demanda por informações específicas ao disponibilizar as provas, os gabaritos, as informações sobre os itens, as notas e o questionário respondido pelos inscritos no ENEM. Eles estão disponíveis na seção Acesso à Informação > Dados Abertos > Microdados > Enem no portal do Instituto Nacional de Estudos e Pesquisas Educacionais (INEP)
+Os microdados do ENEM 2019 são o menor nível de desagregação de dados recolhidos por meio do exame. Eles atendem a demanda por informações específicas ao disponibilizar as provas, os gabaritos, as informações sobre os itens, as notas e o questionário respondido pelos inscritos no ENEM. Eles estão disponíveis na seção Acesso à Informação > Dados Abertos > Microdados > Enem no portal do Instituto Nacional de Estudos e Pesquisas Educacionais (INEP).
+
+Foram elegíveis para o estudo apenas os candidatos inscritos para o ENEM 2019 no estado de Alagoas e que realizaram completamente as provas, excluindo os treineiros.
 
 ### Exploração dos dados
 
