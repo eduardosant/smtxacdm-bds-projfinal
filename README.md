@@ -94,6 +94,8 @@ As notas das provas de Ciências da Natureza, Ciências Humanas, Linguagens e C�
 
 #### Níveis socioeconômicos
 
+Temos 6.894 (11,27%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível I do Inse. Este é o nível inferior da escala, no qual os estudantes têm dois ou mais desvios-padrão abaixo da média nacional do Inse. Considerando a maioria dos estudantes, o pai/responsável não completou o 5º ano do ensino fundamental e a mãe/responsável tem o 5º ano do ensino fundamental incompleto ou completo. A maioria dos estudantes deste nível possui uma geladeira, um ou dois quartos, uma televisão e um banheiro. Mas não possui muitos dos bens e serviços pesquisados (i.e., computador, carro, wi-fi, mesa para estudar, garagem, microondas, aspirador de pó, máquina de lavar roupa e freezer).
+
 |![image](https://user-images.githubusercontent.com/1895529/145304569-3903dd6c-e57d-4d93-b275-eea9d740ceaa.png)|
 |:--:|
 |Gráfico 4 - Média das notas na prova de Ciências da Natureza do ENEM 2019 nos municípios de Alagoas.|
