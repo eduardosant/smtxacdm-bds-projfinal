@@ -32,9 +32,9 @@ Ao analisar os microdados do Exame Nacional do Ensino Médio (ENEM) em Alagoas n
 
 Os microdados do ENEM 2019 são o menor nível de desagregação de dados recolhidos por meio do exame. Eles atendem a demanda por informações específicas ao disponibilizar as provas, os gabaritos, as informações sobre os itens, as notas e o questionário respondido pelos inscritos no ENEM. Eles estão disponíveis na seção Acesso à Informação > Dados Abertos > Microdados > Enem no portal do Instituto Nacional de Estudos e Pesquisas Educacionais (INEP).
 
-Foram elegíveis para o estudo apenas os candidatos inscritos para o ENEM 2019 no estado de Alagoas e que realizaram completamente as provas. Excluindo os estudantes menores de 18 anos e que ainda não estavam no último ano do ensino médio, onde participaram do exame na condição de treineiros. Isso significa que, mesmo que ele obtenha boas notas no Enem, não poderá se matricular em uma instituição de Ensino Superior ou ter acesso a programas do Governo como SiSu, ProUni ou Fies.
+Após exploração inicial dos dados de candidatos inscritos para o ENEM 2019 no estado de Alagoas foram elegíveis para o estudo apenas os que realizaram completamente as provas. Excluindo os estudantes menores de 18 anos e que ainda não estavam no último ano do ensino médio, onde participaram do exame na condição de treineiros. Isso significa que, mesmo que ele obtenha boas notas no Enem, não poderá se matricular em uma instituição de Ensino Superior ou ter acesso a programas do Governo como SiSu, ProUni ou Fies.
 
-### Exploração dos dados
+### Exploração inicial dos dados
 
 #### Perfil dos inscritos
 
