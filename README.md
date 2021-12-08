@@ -94,7 +94,9 @@ As notas das provas de Ciências da Natureza, Ciências Humanas, Linguagens e C�
 
 #### Níveis socioeconômicos
 
-
+|![image](https://user-images.githubusercontent.com/1895529/145304569-3903dd6c-e57d-4d93-b275-eea9d740ceaa.png)|
+|:--:|
+|Gráfico 4 - Média das notas na prova de Ciências da Natureza do ENEM 2019 nos municípios de Alagoas.|
 
 ## Discussão
 
