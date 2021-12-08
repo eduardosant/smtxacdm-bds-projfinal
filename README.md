@@ -28,6 +28,12 @@ Ao analisar os microdados do Exame Nacional do Ensino Médio (ENEM) em Alagoas n
 
 - As taxas de distorção do ensino médio são mais elevadas na rede pública do que na privada. Na rede pública, a maior distorção foi observada para a primeira série, com taxa de 41,5%. Similarmente ao ensino fundamental, para ambas as redes, os alunos do sexo masculino apresentaram taxas de distorção idade‐série maiores para todas as séries do ensino médio. A maior discrepância na taxa de distorção pode ser observada na primeira série da rede pública, que apresenta uma diferença de 13,1 p.p..
 
+Outro instumento de grande importância é o Indicador de Nível Socioeconômico (Inse) do SAEB 2019:
+
+- O Sistema Nacional de Avaliação da Educação Básica (Saeb) é um sistema de avaliação externa em larga escala, composto por um conjunto de instrumentos, realizado periodicamente pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP), desde os anos 1990. Dentre os vários indicadores que podem ser produzidos com os dados coletados pelo Saeb, o que mensura as condições socioeconômicas dos estudantes se destaca na literatura educacional devido à sua estreita relação com as medidas de aprendizagem. O indicador de nível socioeconômico auxilia na identificação das desigualdades educacionais e pode orientar futuros investimentos que contribuam para uma sociedade mais igualitária.
+
+- O Indicador de Nível Socioeconômico (Inse), construído pela Diretoria de Avaliação da Educação Básica (Daeb), com base nos resultados do questionário do estudante do Saeb, tem como objetivo contextualizar resultados obtidos em avaliações e exames aplicados por este instituto no âmbito da educação básica. Dessa forma, possibilita-se conhecer a realidade social de escolas e redes de ensino, bem como auxiliar na implementação, no monitoramento e na avaliação de políticas públicas, visando ao aumento da qualidade e da equidade educacional.
+
 ## Desenvolvimento
 
 Os microdados do ENEM 2019 são o menor nível de desagregação de dados recolhidos por meio do exame. Eles atendem a demanda por informações específicas ao disponibilizar as provas, os gabaritos, as informações sobre os itens, as notas e o questionário respondido pelos inscritos no ENEM. Eles estão disponíveis na seção Acesso à Informação > Dados Abertos > Microdados > Enem no portal do Instituto Nacional de Estudos e Pesquisas Educacionais (INEP).
@@ -75,7 +81,8 @@ A vantagem de usar o desvio padrão ao invés da variância é que o desvio padr
 
 
 ### Notas x INSE
-Estatística descritiva
+
+
 
 ## Discussão
 
@@ -85,11 +92,9 @@ Perfil socioeconômico x Rendimento ENEM
 
 ### Direções para o órgão público que será dirigido
 
-## Referência:
+## Referências bibliográficas:
 
 CARVALHO, Cícero Péricles de. Alagoas 2000-2018. Revista BNB Conjuntura Econômica - Edição Especial 2019, p. 353. Fortaleza: Banco do Nordeste do Brasil, 2019.
-
-INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS ANÍSIO TEIXEIRA. Resumo Técnico do Estado de Alagoas: Censo da Educação Básica Estadual 2019. Brasília: INEP, 2020.
 
 INSTITUTO DE PESQUISA ECONÔMICA APLICADA. Ipeadata. Rio de Janeiro: IPEA, 2015. Base de dados: Macroeconômico; Regional; Social. Disponível em: www.ipeadata.gov.br/Default.aspx.
 
@@ -100,3 +105,7 @@ AGÊNCIA NACIONAL DE TELECOMUNICAÇÕES. Dados. 2019. Disponível em: http://www
 PROGRAMA DAS NAÇÕES UNIDAS PARA O DESENVOLVIMENTO. Atlas do Desenvolvimento Humano. 2013. Disponível em: http://www.br.undp.org/content/brazil/pt/home/idh0.html.
 
 INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. Síntese de Indicadores Sociais: SIS. Rio de Janeiro:IBGE, 2018. Disponível em: https://www.ibge.gov.br/estatisticas/sociais/populacao/9221-sintese-de-indicadores-sociais.html?=&t=sobre.
+
+INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS ANÍSIO TEIXEIRA. Resumo Técnico do Estado de Alagoas: Censo da Educação Básica Estadual 2019. Brasília: INEP, 2020.
+
+BRASIL. INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS ANÍSIO TEIXEIRA. Saeb 2019: indicador de nível socioeconômico do Saeb 2019: nota técnica. Brasília, DF: Inep, 2021.
