@@ -106,6 +106,10 @@ Temos 6.894 (11,27%) dos não inscritos como treineiros no ENEM 2019 em Alagoas 
 |:--:|
 |Gráfico 5 - Média das notas na prova de Ciências Humanas do ENEM 2019 nos municípios de Alagoas (Nível I do Inse).|
 
+|![image](https://user-images.githubusercontent.com/1895529/145307087-d05c5ad9-0708-47b3-9806-fb5d403b84e0.png)|
+|:--:|
+|Gráfico 6 - Média das notas na prova de Linguagens e Códigos do ENEM 2019 nos municípios de Alagoas (Nível I do Inse).|
+
 ## Discussão
 
 ### Hipóteses levantadas
