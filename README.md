@@ -74,15 +74,16 @@ O desvio padrão (DP) é definido como a raiz quadrada da variância (V).
 A vantagem de usar o desvio padrão ao invés da variância é que o desvio padrão é expresso na mesma unidade dos dados, o que facilita a comparação.
 
 
-### Métodos estatísticos
-
+### Notas x INSE
 Estatística descritiva
+
+## Discussão
 
 ### Hipóteses levantadas
 
 Perfil socioeconômico x Rendimento ENEM
 
-## Direções para o órgão público que será dirigido
+### Direções para o órgão público que será dirigido
 
 ## Referência:
 
