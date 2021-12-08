@@ -84,10 +84,9 @@ A vantagem de usar o desvio padrão ao invés da variância é que o desvio padr
 
 Organizamos as médias das notas, por conta da distribuição simétrica, de 61.162 (66,69%) não inscritos como treineiros no ENEM 2019 em Alagoas por muncípio e que realizaram completamente as provas, de acordo com seu perfil Inse.
 
-|![image](https://user-images.githubusercontent.com/1895529/145284869-88120375-23d6-4d2a-999b-e488590c776e.png)|![image](https://user-images.githubusercontent.com/1895529/145285466-7051b4a8-2168-4e62-af31-e62f2d749f30.png)| 
-|![image](https://user-images.githubusercontent.com/1895529/145285947-806ff6ae-b2e1-447f-812d-79013315e7b0.png)|![image](https://user-images.githubusercontent.com/1895529/145286074-2ca47d12-8f46-4e78-abe5-8957be9130cc.png)|
-|:--:|:--:|
-|Gráfico 3 - Boxplot das notas no ENEM 2019 em Alagoas.||
+|![image](https://user-images.githubusercontent.com/1895529/145284869-88120375-23d6-4d2a-999b-e488590c776e.png) ![image](https://user-images.githubusercontent.com/1895529/145285466-7051b4a8-2168-4e62-af31-e62f2d749f30.png) ![image](https://user-images.githubusercontent.com/1895529/145285947-806ff6ae-b2e1-447f-812d-79013315e7b0.png) ![image](https://user-images.githubusercontent.com/1895529/145286074-2ca47d12-8f46-4e78-abe5-8957be9130cc.png)|
+|:--:|
+|Gráfico 3 - Boxplot das notas no ENEM 2019 em Alagoas.|
 
 
 ## Discussão
