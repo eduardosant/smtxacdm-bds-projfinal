@@ -40,6 +40,11 @@ Foram elegíveis para o estudo apenas os candidatos inscritos para o ENEM 2019 n
 
 Em 2019 houveram 91.707 incrições para o ENEM no estado de Alagoas, sendo que 55.255 (60,25%) eram do sexo feminino e 36.452 (39,75%) do sexo masculino. As cidades alagoanas de Maceió e Arapiraca tiveram o maior número de inscritos, respectivamente com 34.635 (37,77%) e 9.738 (10,62%). Apenas 22.289 (24,30%) informaram o tipo de escola do ensino médio. Entre as inscrições femininas 31 (0,06%) eram gestantes. 549 (0,59%) pediram atendimento (DETALHAR!!!). 106 (0,12%) pediram atendimento específico (DETALHAR!!!). 719 (0,78%) pediram recursos especializados e específicos para realização das provas (DETALHAR!!!). A faixa de idade variou em sua maioria dos 18 aos 19 anos (HISTOGRAMA!!!). 8.862 (9,66%) estudantes participaram do exame na condição de treineiros.
 
+| ![Histograma da idade dos inscritos no ENEM 2019 em Alagoas](https://user-images.githubusercontent.com/1895529/145264849-53b1930d-0849-4209-afe2-b287f3649767.png) |
+|:--:|
+| Figura 1 - Histograma da idade dos inscritos no ENEM 2019 em Alagoas |
+
+
 #### Perfil dos que realizaram completamente as provas
 
 Apenas 68.750 (74,97%) do total de inscritos no ENEM 2019 em Alagoas realizaram as provas, sendo que 41.304 (60,08%) eram do sexo feminino e 27.446 (39,92%) do sexo masculino. As cidades alagoanas de Maceió e Arapiraca tiveram o maior número de inscritos, respectivamente com 26.322 (38,29%) e 7.364 (10,71%). Apenas 19.050 (27,71%) informaram o tipo de escola do ensino médio. Entre as inscrições femininas 11 (0.016%) eram gestantes. 422 (0,61%) pediram atendimento especializado (DETALHAR!!!). 42 (0,06%) pediram atendimento específico (DETALHAR!!!). 529 (0,77%) pediram recursos especializados e específicos para realização das provas (DETALHAR!!!). A faixa de idade variou em sua maioria dos 18 aos 19 anos (HISTOGRAMA!!!). 7.588 (11,04%) estudantes participaram do exame na condição de treineiros.
