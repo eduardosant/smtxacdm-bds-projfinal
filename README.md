@@ -82,7 +82,7 @@ A vantagem de usar o desvio padrão ao invés da variância é que o desvio padr
 
 ### Notas das provas realizadas e o Inse
 
-Organizamos as notas de 61.162 (66,69%) não inscritos como treineiros no ENEM 2019 em Alagoas por muncípio e que realizaram completamente as provas, relacionando com os níveis do Inse, para a análise.
+Organizamos as notas de 61.162 (66,69%) não inscritos como treineiros no ENEM 2019 em Alagoas por muncípio e que realizaram completamente as provas, relacionando com os níveis do Inse para análise.
 
 #### Simetria das notas
 
@@ -92,7 +92,9 @@ As notas das provas de Ciências da Natureza, Ciências Humanas, Linguagens e C�
 |:--:|
 |Gráfico 3 - Boxplot das notas nas provas (Ciências da Natureza, Ciências Humanas, Linguagens e Códigos, Matemática e Redação) do ENEM 2019 em Alagoas.|
 
-, por conta da distribuição simétrica, 
+#### Níveis socioeconômicos
+
+
 
 ## Discussão
 
