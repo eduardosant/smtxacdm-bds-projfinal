@@ -80,9 +80,9 @@ O desvio padrão (DP) é definido como a raiz quadrada da variância (V).
 A vantagem de usar o desvio padrão ao invés da variância é que o desvio padrão é expresso na mesma unidade dos dados, o que facilita a comparação.
 
 
-### Notas x INSE
+### Notas e Inse
 
-
+Organizamos as notas de 61.162 (66,69%) não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas, de acordo com seu perfil Inse. Devido
 
 ## Discussão
 
