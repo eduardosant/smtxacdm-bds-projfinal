@@ -86,11 +86,11 @@ Organizamos as notas de 61.162 (66,69%) não inscritos como treineiros no ENEM 2
 
 #### Simetria das notas
 
-
+As notas das provas de Ciências da Natureza, Ciências Humanas, Linguagens e Códigos, e Redação tiveram uma distribuição simétrica, a linha da mediana no centro do retângulo. As notas da prova de Matemátiva tiveram uma distribuição assimétrica positiva, a linha da mediana está próxima ao primeiro quartil.(Gráfico 3) A mediana é a medida de tendência central mais indicada quando os dados possuem distribuição assimétrica, uma vez que a média aritmética é influenciada pelos valores extremos.
 
 |![image](https://user-images.githubusercontent.com/1895529/145284869-88120375-23d6-4d2a-999b-e488590c776e.png) ![image](https://user-images.githubusercontent.com/1895529/145285466-7051b4a8-2168-4e62-af31-e62f2d749f30.png) ![image](https://user-images.githubusercontent.com/1895529/145285947-806ff6ae-b2e1-447f-812d-79013315e7b0.png) ![image](https://user-images.githubusercontent.com/1895529/145286074-2ca47d12-8f46-4e78-abe5-8957be9130cc.png) ![image](https://user-images.githubusercontent.com/1895529/145287218-66300274-5449-44f9-a4ce-6dc6d83b7dda.png)|
 |:--:|
-|Gráfico 3 - Boxplot das notas no ENEM 2019 em Alagoas ().|
+|Gráfico 3 - Boxplot das notas nas provas (Ciências da Natureza, Ciências Humanas, Linguagens e Códigos, Matemática e Redação) do ENEM 2019 em Alagoas.|
 
 , por conta da distribuição simétrica, 
 
