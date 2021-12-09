@@ -171,16 +171,16 @@ O Gráfico 8 apresenta as medidas de tendência central para as notas das provas
 
 ##### Nível VI
 
-Temos  (%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível VI do Inse. Neste nível, os estudantes estão de meio a um desvio-padrão acima da média nacional do Inse. Considerando a maioria dos estudantes, a mãe/responsável e/ou o pai/responsável têm o ensino médio completo ou o ensino superior completo. A maioria possui uma geladeira, dois ou três ou mais quartos, um banheiro, wi-fi, máquina de lavar roupas, freezer, um carro, garagem, forno de micro-ondas, mesa para estudos e aspirador de pó. Parte dos estudantes deste nível passa a ter também dois ou mais computadores e três ou mais televisões.
+Temos 1.748 (2,86%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível VI do Inse. Neste nível, os estudantes estão de meio a um desvio-padrão acima da média nacional do Inse. Considerando a maioria dos estudantes, a mãe/responsável e/ou o pai/responsável têm o ensino médio completo ou o ensino superior completo. A maioria possui uma geladeira, dois ou três ou mais quartos, um banheiro, wi-fi, máquina de lavar roupas, freezer, um carro, garagem, forno de micro-ondas, mesa para estudos e aspirador de pó. Parte dos estudantes deste nível passa a ter também dois ou mais computadores e três ou mais televisões.
 
 O Gráfico 9 apresenta as medidas de tendência central para as notas das provas do ENEM 2019 no Nível VI do Inse em Alagoas.:
-- A mediana de 493,11 para Ciências da Natureza;
-- A mediana de 518,74 para Ciências Humanas;
-- A mediana de 536,98 para Linguagens e Códigos;
-- A mediana de 547,00 para Matemática;
-- A mediana de 657,67 para Redação.
+- A mediana de 545,65 para Ciências da Natureza;
+- A mediana de 575,40 para Ciências Humanas;
+- A mediana de 572,70 para Linguagens e Códigos;
+- A mediana de 630,60 para Matemática;
+- A mediana de 720,00 para Redação.
 
-||
+|![image](https://user-images.githubusercontent.com/1895529/145336305-551a5377-126a-401c-91d5-1cfe4913d276.png)|
 |:--:|
 |Gráfico 9 - Notas das provas do ENEM 2019 no Nível VI do Inse em Alagoas.|
 
