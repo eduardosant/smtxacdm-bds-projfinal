@@ -135,7 +135,7 @@ O Gráfico 6 apresenta as medidas de tendência central para as notas das provas
 - A mediana de 545,5 para Matemática;
 - A mediana de 640,0 para Redação.
 
-|![image](https://user-images.githubusercontent.com/1895529/145331573-bb28bded-3cdb-4142-b5bb-fc58234b6c85.png)|
+|![image](https://user-images.githubusercontent.com/1895529/145333069-519ae31b-0b9f-4ab0-8b32-72756ae2e729.png)|
 |:--:|
 |Gráfico 6 - Notas das provas do ENEM 2019 no Nível III do Inse em Alagoas.|
 
