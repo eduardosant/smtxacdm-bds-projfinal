@@ -98,7 +98,7 @@ As notas das provas de Ciências da Natureza, Ciências Humanas, Linguagens e C�
 
 Temos 6.894 (11,27%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível I do Inse. Este é o nível inferior da escala, no qual os estudantes têm dois ou mais desvios-padrão abaixo da média nacional do Inse. Considerando a maioria dos estudantes, o pai/responsável não completou o 5º ano do ensino fundamental e a mãe/responsável tem o 5º ano do ensino fundamental incompleto ou completo. A maioria dos estudantes deste nível possui uma geladeira, um ou dois quartos, uma televisão e um banheiro. Mas não possui muitos dos bens e serviços pesquisados (i.e., computador, carro, wi-fi, mesa para estudar, garagem, microondas, aspirador de pó, máquina de lavar roupa e freezer).
 
-O Gráfico 4 apresenta as medidas de tendência central para as notas das provas do ENEM 2019 em Alagoas:
+O Gráfico 4 apresenta as medidas de tendência central para as notas das provas do ENEM 2019 no Nível I do Inse em Alagoas.:
 - A média aritmética de 437,32 para Ciências da Natureza, com uma distribuição simétrica;
 - A média aritmética de 464,19 para Ciências Humanas, com uma distribuição simétrica;
 - A média aritmética de 482,75 para Linguagens e Códigos, com uma distribuição simétrica;
@@ -113,7 +113,7 @@ O Gráfico 4 apresenta as medidas de tendência central para as notas das provas
 
 Temos 9.106 (14,89%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível II do Inse. Neste nível, os estudantes estão entre um e dois desvios-padrão abaixo da média nacional do Inse. Considerando a maioria dos estudantes, a mãe/responsável e/ou o pai/responsável tem o 5º ano do ensino fundamental incompleto ou completo. A maioria possui uma geladeira, um ou dois quartos, uma televisão e um banheiro. Mas não possui muitos dos bens e serviços pesquisados, exceto uma parte dos estudantes deste nível passa a ter freezer, máquina de lavar roupa e três ou mais quartos para dormir em sua casa.
 
-O Gráfico 5 apresenta as medidas de tendência central para as notas das provas do ENEM 2019 em Alagoas:
+O Gráfico 5 apresenta as medidas de tendência central para as notas das provas do ENEM 2019 no Nível II do Inse em Alagoas.:
 - A média aritmética de 437,80 para Ciências da Natureza, com uma distribuição simétrica;
 - A média aritmética de 465,01 para Ciências Humanas, com uma distribuição simétrica;
 - A média aritmética de 484,05 para Linguagens e Códigos, com uma distribuição simétrica;
@@ -128,7 +128,7 @@ O Gráfico 5 apresenta as medidas de tendência central para as notas das provas
 
 Temos 375 (0,61%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível III do Inse. Neste nível, os estudantes estão entre meio e um desvio-padrão abaixo da média nacional do Inse. Considerando a maioria dos estudantes, a mãe/responsável e o pai/responsável têm o ensino fundamental incompleto ou completo e/ou ensino médio completo. A maioria possui uma geladeira, um ou dois quartos, uma televisão, um banheiro, wi-fi e máquina de lavar roupas, mas não possui computador, carro, garagem e aspirador de pó. Parte dos estudantes passa a ter também freezer e forno de micro-ondas.
 
-O Gráfico 6 apresenta as medidas de tendência central para as notas das provas do ENEM 2019 em Alagoas:
+O Gráfico 6 apresenta as medidas de tendência central para as notas das provas do ENEM 2019 no Nível III do Inse em Alagoas.:
 - A média aritmética de 450,70 para Ciências da Natureza, com uma distribuição simétrica;
 - A média aritmética de 479,57 para Ciências Humanas, com uma distribuição simétrica;
 - A média aritmética de 505,48 para Linguagens e Códigos, com uma distribuição simétrica;
@@ -143,7 +143,7 @@ O Gráfico 6 apresenta as medidas de tendência central para as notas das provas
 
 Temos XXXXX dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível IV do Inse.
 
-O Gráfico 6 apresenta as medidas de tendência central para as notas das provas do ENEM 2019 em Alagoas:
+O Gráfico 7 apresenta as medidas de tendência central para as notas das provas do ENEM 2019 no Nível IV do Inse em Alagoas.:
 - A média aritmética de 437,80 para Ciências da Natureza, com uma distribuição simétrica;
 - A média aritmética de 465,01 para Ciências Humanas, com uma distribuição simétrica;
 - A média aritmética de 484,05 para Linguagens e Códigos, com uma distribuição simétrica;
