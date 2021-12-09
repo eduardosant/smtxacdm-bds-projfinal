@@ -238,7 +238,7 @@ Com relação ao aproveitamento nas provas e sua relação com os níveis socioe
   - Níveis II, III, IV, V, VI e VII com desempenho intermediário
   - Nível VIII com o melhor desempenho
 
-### Hipóteses levantadas
+### Hipótese levantada
 
 Podemos supor que a grande maioria dos inscritos com baixo desempenho no ENEM 2019 em Alagoas enfrentam diversas dificuldades educacionais na rede pública de ensino por conta de seu nível socioeconônimo inferior. Refletindo nas taxas de aprovação, reprovação, abandono, distorção idade‐série, entre outras.
 
