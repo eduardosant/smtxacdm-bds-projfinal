@@ -141,32 +141,32 @@ O Gráfico 6 apresenta as medidas de tendência central para as notas das provas
 
 ##### Nível IV
 
-Temos 423 (0,69%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível IV do Inse. Neste nível, os estudantes estão até meio desvio-padrão abaixo da média nacional do Inse. Considerando a maioria dos estudantes, a mãe/responsável e o pai/responsável têm o ensino fundamental incompleto ou completo e/ou ensino médio completo. A maioria possui uma geladeira, um ou dois quartos, um banheiro, wi-fi, máquina de lavar roupas e freezer, mas não possui aspirador de pó. Parte dos estudantes deste nível passa a ter também computador, carro, mesa de estudos, garagem, forno de micro-ondas e uma ou duas televisões.
+Temos  (%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível IV do Inse. Neste nível, os estudantes estão até meio desvio-padrão abaixo da média nacional do Inse. Considerando a maioria dos estudantes, a mãe/responsável e o pai/responsável têm o ensino fundamental incompleto ou completo e/ou ensino médio completo. A maioria possui uma geladeira, um ou dois quartos, um banheiro, wi-fi, máquina de lavar roupas e freezer, mas não possui aspirador de pó. Parte dos estudantes deste nível passa a ter também computador, carro, mesa de estudos, garagem, forno de micro-ondas e uma ou duas televisões.
 
 O Gráfico 7 apresenta as medidas de tendência central para as notas das provas do ENEM 2019 no Nível IV do Inse em Alagoas.:
-- A média aritmética de 479,74 para Ciências da Natureza, com uma distribuição simétrica;
-- A média aritmética de 506,29 para Ciências Humanas, com uma distribuição simétrica;
-- A média aritmética de 527,18 para Linguagens e Códigos, com uma distribuição simétrica;
-- A mediana de 517,60 para Matemática, com uma distribuição assimétrica;
-- A média aritmética de 608,94 para Redação, com uma distribuição simétrica.
+- A mediana de 479,74 para Ciências da Natureza;
+- A mediana de 506,29 para Ciências Humanas;
+- A mediana de 527,18 para Linguagens e Códigos;
+- A mediana de 517,60 para Matemática;
+- A mediana de 608,94 para Redação.
 
-|![image](https://user-images.githubusercontent.com/1895529/145318682-ef595dc4-119f-43c1-ba2e-848a7583e84e.png)|
+||
 |:--:|
 |Gráfico 7 - Notas das provas do ENEM 2019 no Nível IV do Inse em Alagoas.|
 
 ##### Nível V
 
-Temos 16 (0,03%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível V do Inse. Neste nível, os estudantes estão até meio desvio-padrão acima da média nacional do Inse. Considerando a maioria dos estudantes, a mãe/responsável tem o ensino médio completo
+Temos  (%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível V do Inse. Neste nível, os estudantes estão até meio desvio-padrão acima da média nacional do Inse. Considerando a maioria dos estudantes, a mãe/responsável tem o ensino médio completo
 ou ensino superior completo, o pai/responsável tem do ensino fundamental completo até o ensino superior completo. A maioria possui uma geladeira, um ou dois quartos, um banheiro, wi-fi, máquina de lavar roupas, freezer, um carro, garagem, forno de micro-ondas. Parte dos estudantes deste nível passa a ter também dois banheiros.
 
 O Gráfico 8 apresenta as medidas de tendência central para as notas das provas do ENEM 2019 no Nível V do Inse em Alagoas.:
-- A média aritmética de 517,07 para Ciências da Natureza, com uma distribuição simétrica;
-- A média aritmética de 556,23 para Ciências Humanas, com uma distribuição simétrica;
-- A média aritmética de 560,74 para Linguagens e Códigos, com uma distribuição simétrica;
-- A mediana de 589,35 para Matemática, com uma distribuição assimétrica;
-- A média aritmética de 753,75 para Redação, com uma distribuição simétrica.
+- A mediana de 517,07 para Ciências da Natureza;
+- A mediana de 556,23 para Ciências Humanas;
+- A mediana de 560,74 para Linguagens e Códigos;
+- A mediana de 589,35 para Matemática;
+- A mediana de 753,75 para Redação.
 
-|![image](https://user-images.githubusercontent.com/1895529/145321406-6c3e3802-83c1-4181-a18f-60ad5090bc96.png)|
+||
 |:--:|
 |Gráfico 8 - Notas das provas do ENEM 2019 no Nível V do Inse em Alagoas.|
 
@@ -175,13 +175,13 @@ O Gráfico 8 apresenta as medidas de tendência central para as notas das provas
 Temos 172 (0,28%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível VI do Inse. Neste nível, os estudantes estão de meio a um desvio-padrão acima da média nacional do Inse. Considerando a maioria dos estudantes, a mãe/responsável e/ou o pai/responsável têm o ensino médio completo ou o ensino superior completo. A maioria possui uma geladeira, dois ou três ou mais quartos, um banheiro, wi-fi, máquina de lavar roupas, freezer, um carro, garagem, forno de micro-ondas, mesa para estudos e aspirador de pó. Parte dos estudantes deste nível passa a ter também dois ou mais computadores e três ou mais televisões.
 
 O Gráfico 9 apresenta as medidas de tendência central para as notas das provas do ENEM 2019 no Nível VI do Inse em Alagoas.:
-- A média aritmética de 493,11 para Ciências da Natureza, com uma distribuição simétrica;
-- A média aritmética de 518,74 para Ciências Humanas, com uma distribuição simétrica;
-- A média aritmética de 536,98 para Linguagens e Códigos, com uma distribuição simétrica;
-- A mediana de 547,00 para Matemática, com uma distribuição assimétrica;
-- A média aritmética de 657,67 para Redação, com uma distribuição simétrica.
+- A mediana de 493,11 para Ciências da Natureza;
+- A mediana de 518,74 para Ciências Humanas;
+- A mediana de 536,98 para Linguagens e Códigos;
+- A mediana de 547,00 para Matemática;
+- A mediana de 657,67 para Redação.
 
-|![image](https://user-images.githubusercontent.com/1895529/145322729-20ef557f-8fca-4864-b6f8-56580e6cacea.png)|
+||
 |:--:|
 |Gráfico 9 - Notas das provas do ENEM 2019 no Nível VI do Inse em Alagoas.|
 
