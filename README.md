@@ -242,9 +242,9 @@ Com relação ao aproveitamento nas provas e sua relação com os níveis socioe
 
 Podemos supor que a grande maioria dos inscritos com baixo desempenho no ENEM 2019 em Alagoas enfrentam diversas dificuldades educacionais na rede pública de ensino por conta de seu nível socioeconônimo inferior. Refletindo nas taxas de aprovação, reprovação, abandono, distorção idade‐série, entre outras.
 
-### Direções para o órgão público que será dirigido
+### Orientações para os gestores públicos
 
-
+Diante do exposto se faz urgente o empenho para o desenvolvimento de políticas públicas que enfrentem o desafio de assegurar educação de qualidade para todos articulada com o processo de enfrentamento à desigualdade social e a busca de uma sociedade mais justa.
 
 ## Referências bibliográficas:
 
