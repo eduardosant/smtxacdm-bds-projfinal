@@ -114,11 +114,11 @@ O Gráfico 4 apresenta as medidas de tendência central para as notas das provas
 Temos 45.429 (74,28%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível II do Inse. Neste nível, os estudantes estão entre um e dois desvios-padrão abaixo da média nacional do Inse. Considerando a maioria dos estudantes, a mãe/responsável e/ou o pai/responsável tem o 5º ano do ensino fundamental incompleto ou completo. A maioria possui uma geladeira, um ou dois quartos, uma televisão e um banheiro. Mas não possui muitos dos bens e serviços pesquisados, exceto uma parte dos estudantes deste nível passa a ter freezer, máquina de lavar roupa e três ou mais quartos para dormir em sua casa.
 
 O Gráfico 5 apresenta as medidas de tendência central para as notas das provas do ENEM 2019 no Nível II do Inse em Alagoas.:
-- A mediana de 456,40 para Ciências da Natureza;
-- A mediana de 495,20 para Ciências Humanas;
-- A mediana de 515,20 para Linguagens e Códigos;
-- A mediana de 486,60 para Matemática;
-- A mediana de 580,00 para Redação.
+- A mediana de 456,4 para Ciências da Natureza;
+- A mediana de 495,2 para Ciências Humanas;
+- A mediana de 515,2 para Linguagens e Códigos;
+- A mediana de 486,6 para Matemática;
+- A mediana de 580,0 para Redação.
 
 |![image](https://user-images.githubusercontent.com/1895529/145328094-30bfb1c6-52d9-4f21-9eac-0f8bcea92c9a.png)|
 |:--:|
@@ -126,16 +126,16 @@ O Gráfico 5 apresenta as medidas de tendência central para as notas das provas
 
 ##### Nível III
 
-Temos 375 (0,61%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível III do Inse. Neste nível, os estudantes estão entre meio e um desvio-padrão abaixo da média nacional do Inse. Considerando a maioria dos estudantes, a mãe/responsável e o pai/responsável têm o ensino fundamental incompleto ou completo e/ou ensino médio completo. A maioria possui uma geladeira, um ou dois quartos, uma televisão, um banheiro, wi-fi e máquina de lavar roupas, mas não possui computador, carro, garagem e aspirador de pó. Parte dos estudantes passa a ter também freezer e forno de micro-ondas.
+Temos 32.115 (52,51%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível III do Inse. Neste nível, os estudantes estão entre meio e um desvio-padrão abaixo da média nacional do Inse. Considerando a maioria dos estudantes, a mãe/responsável e o pai/responsável têm o ensino fundamental incompleto ou completo e/ou ensino médio completo. A maioria possui uma geladeira, um ou dois quartos, uma televisão, um banheiro, wi-fi e máquina de lavar roupas, mas não possui computador, carro, garagem e aspirador de pó. Parte dos estudantes passa a ter também freezer e forno de micro-ondas.
 
 O Gráfico 6 apresenta as medidas de tendência central para as notas das provas do ENEM 2019 no Nível III do Inse em Alagoas.:
-- A média aritmética de 450,70 para Ciências da Natureza, com uma distribuição simétrica;
-- A média aritmética de 479,57 para Ciências Humanas, com uma distribuição simétrica;
-- A média aritmética de 505,48 para Linguagens e Códigos, com uma distribuição simétrica;
-- A mediana de 465,70 para Matemática, com uma distribuição assimétrica;
-- A média aritmética de 555,31 para Redação, com uma distribuição simétrica.
+- A mediana de 467,9 para Ciências da Natureza;
+- A mediana de 508,0 para Ciências Humanas;
+- A mediana de 525,1 para Linguagens e Códigos;
+- A mediana de 504,7 para Matemática;
+- A mediana de 600,0 para Redação.
 
-|![image](https://user-images.githubusercontent.com/1895529/145316841-52320cea-6670-47ae-9aa0-80fa05c57cc2.png)|
+|![image](https://user-images.githubusercontent.com/1895529/145329634-da3446eb-a88d-4564-a6fc-ed651edcd8fb.png)|
 |:--:|
 |Gráfico 6 - Notas das provas do ENEM 2019 no Nível III do Inse em Alagoas.|
 
