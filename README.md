@@ -156,17 +156,16 @@ O Gráfico 7 apresenta as medidas de tendência central para as notas das provas
 
 ##### Nível V
 
-Temos  (%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível V do Inse. Neste nível, os estudantes estão até meio desvio-padrão acima da média nacional do Inse. Considerando a maioria dos estudantes, a mãe/responsável tem o ensino médio completo
-ou ensino superior completo, o pai/responsável tem do ensino fundamental completo até o ensino superior completo. A maioria possui uma geladeira, um ou dois quartos, um banheiro, wi-fi, máquina de lavar roupas, freezer, um carro, garagem, forno de micro-ondas. Parte dos estudantes deste nível passa a ter também dois banheiros.
+Temos 60 (0,09%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível V do Inse. Neste nível, os estudantes estão até meio desvio-padrão acima da média nacional do Inse. Considerando a maioria dos estudantes, a mãe/responsável tem o ensino médio completo ou ensino superior completo, o pai/responsável tem do ensino fundamental completo até o ensino superior completo. A maioria possui uma geladeira, um ou dois quartos, um banheiro, wi-fi, máquina de lavar roupas, freezer, um carro, garagem, forno de micro-ondas. Parte dos estudantes deste nível passa a ter também dois banheiros.
 
 O Gráfico 8 apresenta as medidas de tendência central para as notas das provas do ENEM 2019 no Nível V do Inse em Alagoas.:
-- A mediana de 517,07 para Ciências da Natureza;
-- A mediana de 556,23 para Ciências Humanas;
-- A mediana de 560,74 para Linguagens e Códigos;
-- A mediana de 589,35 para Matemática;
-- A mediana de 753,75 para Redação.
+- A mediana de 548,45 para Ciências da Natureza;
+- A mediana de 576,55 para Ciências Humanas;
+- A mediana de 574,75 para Linguagens e Códigos;
+- A mediana de 633,75 para Matemática;
+- A mediana de 720,00 para Redação.
 
-||
+|![image](https://user-images.githubusercontent.com/1895529/145335139-effad59e-4369-4a63-a3d7-21abd6ff3069.png)|
 |:--:|
 |Gráfico 8 - Notas das provas do ENEM 2019 no Nível V do Inse em Alagoas.|
 
