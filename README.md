@@ -126,7 +126,7 @@ O Gráfico 5 apresenta as medidas de tendência central para as notas das provas
 
 ##### Nível III
 
-Temos XXXXXXXXX dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível III do Inse.
+Temos 375 (0,61%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível III do Inse. Neste nível, os estudantes estão entre meio e um desvio-padrão abaixo da média nacional do Inse. Considerando a maioria dos estudantes, a mãe/responsável e o pai/responsável têm o ensino fundamental incompleto ou completo e/ou ensino médio completo. A maioria possui uma geladeira, um ou dois quartos, uma televisão, um banheiro, wi-fi e máquina de lavar roupas, mas não possui computador, carro, garagem e aspirador de pó. Parte dos estudantes passa a ter também freezer e forno de micro-ondas.
 
 O Gráfico 6 apresenta as medidas de tendência central para as notas das provas do ENEM 2019 em Alagoas:
 - A média aritmética de 437,80 para Ciências da Natureza, com uma distribuição simétrica;
