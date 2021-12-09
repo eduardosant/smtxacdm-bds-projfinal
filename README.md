@@ -225,7 +225,11 @@ Com relação ao aproveitamento nas provas e sua relação com os níveis socioe
   - Nível I com pior desempenho
   - Níveis II, III, IV, V, VI e VII com desempenho intermediário
   - Nível VIII com o melhor desempenho
-- Ciências Humanas
+- Linguagens e Códigos
+  - Nível I com pior desempenho
+  - Níveis II, III, IV, V, VI e VII com desempenho intermediário
+  - Nível VIII com o melhor desempenho
+- Matemática
   - Nível I com pior desempenho
   - Níveis II, III, IV, V, VI e VII com desempenho intermediário
   - Nível VIII com o melhor desempenho
