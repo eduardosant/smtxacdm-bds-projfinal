@@ -233,6 +233,10 @@ Com relação ao aproveitamento nas provas e sua relação com os níveis socioe
   - Nível I com pior desempenho
   - Níveis II, III, IV, V, VI e VII com desempenho intermediário
   - Nível VIII com o melhor desempenho
+- Redação
+  - Nível I com pior desempenho
+  - Níveis II, III, IV, V, VI e VII com desempenho intermediário
+  - Nível VIII com o melhor desempenho
 
 ### Hipóteses levantadas
 
