@@ -166,7 +166,7 @@ O Gráfico 8 apresenta as medidas de tendência central para as notas das provas
 - A mediana de 589,35 para Matemática, com uma distribuição assimétrica;
 - A média aritmética de 753,75 para Redação, com uma distribuição simétrica.
 
-|![image](https://user-images.githubusercontent.com/1895529/145321168-3513f986-fa4e-4653-96ff-f4cac8d16569.png)|
+|![image](https://user-images.githubusercontent.com/1895529/145321406-6c3e3802-83c1-4181-a18f-60ad5090bc96.png)|
 |:--:|
 |Gráfico 8 - Notas das provas do ENEM 2019 no Nível IV do Inse em Alagoas.|
 
