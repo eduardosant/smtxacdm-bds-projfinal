@@ -28,7 +28,7 @@ Ao analisar os microdados do Exame Nacional do Ensino Médio (ENEM) em Alagoas n
 
 - As taxas de distorção do ensino médio são mais elevadas na rede pública do que na privada. Na rede pública, a maior distorção foi observada para a primeira série, com taxa de 41,5%. Similarmente ao ensino fundamental, para ambas as redes, os alunos do sexo masculino apresentaram taxas de distorção idade‐série maiores para todas as séries do ensino médio. A maior discrepância na taxa de distorção pode ser observada na primeira série da rede pública, que apresenta uma diferença de 13,1 p.p..
 
-Outro instumento de grande importância é o Indicador de Nível Socioeconômico (Inse) do SAEB 2019:
+Outro instumento de grande importância é o Indicador de Nível Socioeconômico (Inse) do SAEB 2019 (BRASIL, 2021):
 
 - O Sistema Nacional de Avaliação da Educação Básica (Saeb) é um sistema de avaliação externa em larga escala, composto por um conjunto de instrumentos, realizado periodicamente pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP), desde os anos 1990. Dentre os vários indicadores que podem ser produzidos com os dados coletados pelo Saeb, o que mensura as condições socioeconômicas dos estudantes se destaca na literatura educacional devido à sua estreita relação com as medidas de aprendizagem. O indicador de nível socioeconômico auxilia na identificação das desigualdades educacionais e pode orientar futuros investimentos que contribuam para uma sociedade mais igualitária.
 
@@ -97,6 +97,13 @@ As notas das provas de Ciências da Natureza, Ciências Humanas, Linguagens e C�
 ##### Nível I
 
 Temos 6.894 (11,27%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível I do Inse. Este é o nível inferior da escala, no qual os estudantes têm dois ou mais desvios-padrão abaixo da média nacional do Inse. Considerando a maioria dos estudantes, o pai/responsável não completou o 5º ano do ensino fundamental e a mãe/responsável tem o 5º ano do ensino fundamental incompleto ou completo. A maioria dos estudantes deste nível possui uma geladeira, um ou dois quartos, uma televisão e um banheiro. Mas não possui muitos dos bens e serviços pesquisados (i.e., computador, carro, wi-fi, mesa para estudar, garagem, microondas, aspirador de pó, máquina de lavar roupa e freezer).
+
+O Gráfico 4 apresenta as medidas de tendência central para as notas das provas do ENEM 2019 em Alagoas:
+- A média aritmética de 437,32 para Ciências da Natureza, com uma distribuição simétrica;
+- A média aritmética de 464,19 para Ciências Humanas, com uma distribuição simétrica;
+- A média aritmética de 482,75 para Linguagens e Códigos, com uma distribuição simétrica;
+- A mediana de 449,90 para Matemática, com uma distribuição assimétrica;
+- A média aritmética de 517,38 para Redação, com uma distribuição simétrica.
 
 |![image](https://user-images.githubusercontent.com/1895529/145312339-7c911eb0-61d4-4eef-a8c9-bf6b7279bd83.png)|
 |:--:|
