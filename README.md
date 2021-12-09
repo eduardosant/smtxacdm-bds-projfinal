@@ -124,6 +124,20 @@ O Gráfico 5 apresenta as medidas de tendência central para as notas das provas
 |:--:|
 |Gráfico 5 - Notas das provas do ENEM 2019 no Nível II do Inse em Alagoas.|
 
+##### Nível III
+
+Temos XXXXXXXXX dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível III do Inse.
+
+O Gráfico 6 apresenta as medidas de tendência central para as notas das provas do ENEM 2019 em Alagoas:
+- A média aritmética de 437,80 para Ciências da Natureza, com uma distribuição simétrica;
+- A média aritmética de 465,01 para Ciências Humanas, com uma distribuição simétrica;
+- A média aritmética de 484,05 para Linguagens e Códigos, com uma distribuição simétrica;
+- A mediana de 450,40 para Matemática, com uma distribuição assimétrica;
+- A média aritmética de 520,39 para Redação, com uma distribuição simétrica.
+
+||
+|:--:|
+|Gráfico 6 - Notas das provas do ENEM 2019 no Nível III do Inse em Alagoas.|
 
 ## Discussão
 
