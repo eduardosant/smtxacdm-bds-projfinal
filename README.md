@@ -175,13 +175,13 @@ O Gráfico 8 apresenta as medidas de tendência central para as notas das provas
 Temos 172 (0,28%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível VI do Inse. Neste nível, os estudantes estão até meio desvio-padrão acima da média nacional do Inse. Considerando a maioria dos estudantes, a mãe/responsável tem o ensino médio completo ou ensino superior completo, o pai/responsável tem do ensino fundamental completo até o ensino superior completo. A maioria possui uma geladeira, um ou dois quartos, um banheiro, wi-fi, máquina de lavar roupas, freezer, um carro, garagem, forno de micro-ondas. Parte dos estudantes deste nível passa a ter também dois banheiros.
 
 O Gráfico 9 apresenta as medidas de tendência central para as notas das provas do ENEM 2019 no Nível VI do Inse em Alagoas.:
-- A média aritmética de 517,07 para Ciências da Natureza, com uma distribuição simétrica;
-- A média aritmética de 556,23 para Ciências Humanas, com uma distribuição simétrica;
-- A média aritmética de 560,74 para Linguagens e Códigos, com uma distribuição simétrica;
-- A mediana de 589,35 para Matemática, com uma distribuição assimétrica;
-- A média aritmética de 753,75 para Redação, com uma distribuição simétrica.
+- A média aritmética de 493,11 para Ciências da Natureza, com uma distribuição simétrica;
+- A média aritmética de 518,74 para Ciências Humanas, com uma distribuição simétrica;
+- A média aritmética de 536,98 para Linguagens e Códigos, com uma distribuição simétrica;
+- A mediana de 547,00 para Matemática, com uma distribuição assimétrica;
+- A média aritmética de 657,67 para Redação, com uma distribuição simétrica.
 
-||
+|![image](https://user-images.githubusercontent.com/1895529/145322729-20ef557f-8fca-4864-b6f8-56580e6cacea.png)|
 |:--:|
 |Gráfico 9 - Notas das provas do ENEM 2019 no Nível VI do Inse em Alagoas.|
 
