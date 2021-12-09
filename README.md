@@ -184,6 +184,22 @@ O Gráfico 9 apresenta as medidas de tendência central para as notas das provas
 |:--:|
 |Gráfico 9 - Notas das provas do ENEM 2019 no Nível VI do Inse em Alagoas.|
 
+##### Nível VII
+
+Temos  (%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível VII do Inse. Neste nível, os estudantes estão de um a dois desvios-padrão acima da média nacional do Inse. Considerando a maioria dos estudantes, a mãe/responsável e/ou o pai/responsável têm
+ensino médio completo ou ensino superior completo. A maioria possui uma geladeira, três ou mais quartos, um banheiro, wi-fi, máquina de lavar roupas, freezer, um carro, garagem, forno de micro-ondas, mesa para estudos e aspirador de pó. Parte dos estudantes deste nível passa a ter também dois ou mais carros, três ou mais banheiros e duas ou mais geladeiras.
+
+O Gráfico 10 apresenta as medidas de tendência central para as notas das provas do ENEM 2019 no Nível VII do Inse em Alagoas.:
+- A mediana de 526,9 para Ciências da Natureza;
+- A mediana de 559,7 para Ciências Humanas;
+- A mediana de 561,5 para Linguagens e Códigos;
+- A mediana de 594,5 para Matemática;
+- A mediana de 680,0 para Redação.
+
+|![image](https://user-images.githubusercontent.com/1895529/145338172-ed579779-84d8-454a-b553-a9d668fc6226.png)|
+|:--:|
+|Gráfico 10 - Notas das provas do ENEM 2019 no Nível VII do Inse em Alagoas.|
+
 ## Discussão
 
 ### Hipóteses levantadas
