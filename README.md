@@ -156,7 +156,7 @@ O Gráfico 7 apresenta as medidas de tendência central para as notas das provas
 
 ##### Nível V
 
-Temos XXXXXXXXXXX dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível V do Inse. Neste nível, os estudantes estão até meio desvio-padrão acima da média nacional do Inse. Considerando a maioria dos estudantes, a mãe/responsável tem o ensino médio completo
+Temos 16 (0,03%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível V do Inse. Neste nível, os estudantes estão até meio desvio-padrão acima da média nacional do Inse. Considerando a maioria dos estudantes, a mãe/responsável tem o ensino médio completo
 ou ensino superior completo, o pai/responsável tem do ensino fundamental completo até o ensino superior completo. A maioria possui uma geladeira, um ou dois quartos, um banheiro, wi-fi, máquina de lavar roupas, freezer, um carro, garagem, forno de micro-ondas. Parte dos estudantes deste nível passa a ter também dois banheiros.
 
 O Gráfico 8 apresenta as medidas de tendência central para as notas das provas do ENEM 2019 no Nível V do Inse em Alagoas.:
