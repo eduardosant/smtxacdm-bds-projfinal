@@ -216,7 +216,27 @@ O Gráfico 11 apresenta as medidas de tendência central para as notas das prova
 
 ## Discussão
 
+íCom relação ao aproveitamento nas provas e sua relação com os níveis socioeconômicos fica evidenciado:
+- Ciências da Natureza
+  - Nível I com pior desempenho
+  - Níveis II, III, IV, V, VI e VII com desempenho intermediário
+  - Nível VIII com o melhor desempenho
+- Ciências da Natureza
+  - Nível I com pior desempenho
+  - Níveis II, III, IV, V, VI e VII com desempenho intermediário
+  - Nível VIII com o melhor desempenho 
+
 ### Hipóteses levantadas
+
+
+A mediana de 430,75 para Ciências da Natureza;
+A mediana de 455,2 para Ciências da Natureza;
+A mediana de 493,8 para Ciências da Natureza;
+A mediana de 489,9 para Ciências da Natureza;
+A mediana de 548,45 para Ciências da Natureza;
+A mediana de 545,65 para Ciências da Natureza;
+A mediana de 526,9 para Ciências da Natureza;
+A mediana de 588,40 para Ciências da Natureza;
 
 Perfil socioeconômico x Rendimento ENEM
 
