@@ -111,7 +111,7 @@ O Gráfico 4 apresenta as medidas de tendência central para as notas das provas
 
 ##### Nível II
 
-Temos 9.106 (14,89%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível II do Inse. Neste nível, os estudantes estão entre um e dois desvios-padrão abaixo da média nacional do Inse. Considerando a maioria dos estudantes, a mãe/responsável e/ou o pai/responsável tem o 5º ano do ensino fundamental incompleto ou completo. A maioria possui uma geladeira, um ou dois quartos, uma televisão e um banheiro. Mas não possui muitos dos bens e serviços pesquisados, exceto uma parte dos estudantes deste nível passa a ter freezer, máquina de lavar roupa e três ou mais quartos para dormir em sua casa.
+Temos 45.429 (74,28%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível II do Inse. Neste nível, os estudantes estão entre um e dois desvios-padrão abaixo da média nacional do Inse. Considerando a maioria dos estudantes, a mãe/responsável e/ou o pai/responsável tem o 5º ano do ensino fundamental incompleto ou completo. A maioria possui uma geladeira, um ou dois quartos, uma televisão e um banheiro. Mas não possui muitos dos bens e serviços pesquisados, exceto uma parte dos estudantes deste nível passa a ter freezer, máquina de lavar roupa e três ou mais quartos para dormir em sua casa.
 
 O Gráfico 5 apresenta as medidas de tendência central para as notas das provas do ENEM 2019 no Nível II do Inse em Alagoas.:
 - A média aritmética de 437,80 para Ciências da Natureza, com uma distribuição simétrica;
