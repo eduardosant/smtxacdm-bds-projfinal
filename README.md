@@ -99,13 +99,13 @@ As notas das provas de Ciências da Natureza, Ciências Humanas, Linguagens e C�
 Temos 6.894 (11,27%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível I do Inse. Este é o nível inferior da escala, no qual os estudantes têm dois ou mais desvios-padrão abaixo da média nacional do Inse. Considerando a maioria dos estudantes, o pai/responsável não completou o 5º ano do ensino fundamental e a mãe/responsável tem o 5º ano do ensino fundamental incompleto ou completo. A maioria dos estudantes deste nível possui uma geladeira, um ou dois quartos, uma televisão e um banheiro. Mas não possui muitos dos bens e serviços pesquisados (i.e., computador, carro, wi-fi, mesa para estudar, garagem, microondas, aspirador de pó, máquina de lavar roupa e freezer).
 
 O Gráfico 4 apresenta as medidas de tendência central para as notas das provas do ENEM 2019 no Nível I do Inse em Alagoas.:
-- A média aritmética de 437,32 para Ciências da Natureza, com uma distribuição simétrica;
-- A média aritmética de 464,19 para Ciências Humanas, com uma distribuição simétrica;
-- A média aritmética de 482,75 para Linguagens e Códigos, com uma distribuição simétrica;
-- A mediana de 449,90 para Matemática, com uma distribuição assimétrica;
-- A média aritmética de 517,38 para Redação, com uma distribuição simétrica.
+- A mediana de 430,75 para Ciências da Natureza;
+- A mediana de 462,10 para Ciências Humanas;
+- A mediana de 488,60 para Linguagens e Códigos;
+- A mediana de 449,90 para Matemática;
+- A mediana de 540,00 para Redação.
 
-|![image](https://user-images.githubusercontent.com/1895529/145312339-7c911eb0-61d4-4eef-a8c9-bf6b7279bd83.png)|
+|![image](https://user-images.githubusercontent.com/1895529/145326887-cdd61add-f9c5-4b87-b10c-7caa48822733.png)|
 |:--:|
 |Gráfico 4 - Notas das provas do ENEM 2019 no Nível I do Inse em Alagoas.|
 
