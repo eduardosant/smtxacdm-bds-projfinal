@@ -199,6 +199,21 @@ O Gráfico 10 apresenta as medidas de tendência central para as notas das prova
 |:--:|
 |Gráfico 10 - Notas das provas do ENEM 2019 no Nível VII do Inse em Alagoas.|
 
+##### Nível VIII
+
+Temos 26 (0,04%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível VIII do Inse. Este é o nível superior da escala, no qual os estudantes estão dois desvios-padrão ou mais acima da média nacional do Inse. Considerando a maioria dos estudantes, a mãe/responsável e/ou o pai/responsável têm ensino superior completo. Além de possuírem os bens dos níveis anteriores, a maioria dos estudantes deste nível passa a ter duas ou mais geladeiras, dois ou mais computadores, três ou mais televisões, três ou mais banheiros e dois ou mais carros.
+
+O Gráfico 11 apresenta as medidas de tendência central para as notas das provas do ENEM 2019 no Nível VIII do Inse em Alagoas.:
+- A mediana de 588,40 para Ciências da Natureza;
+- A mediana de 600,40 para Ciências Humanas;
+- A mediana de 602,25 para Linguagens e Códigos;
+- A mediana de 697,50 para Matemática;
+- A mediana de 810,00 para Redação.
+
+|![image](https://user-images.githubusercontent.com/1895529/145340101-8a989ce9-2f85-4294-a896-3f52f68728fa.png)|
+|:--:|
+|Gráfico 11 - Notas das provas do ENEM 2019 no Nível VIII do Inse em Alagoas.|
+
 ## Discussão
 
 ### Hipóteses levantadas
