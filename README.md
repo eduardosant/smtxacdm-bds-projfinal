@@ -141,16 +141,16 @@ O Gráfico 6 apresenta as medidas de tendência central para as notas das provas
 
 ##### Nível IV
 
-Temos  (%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível IV do Inse. Neste nível, os estudantes estão até meio desvio-padrão abaixo da média nacional do Inse. Considerando a maioria dos estudantes, a mãe/responsável e o pai/responsável têm o ensino fundamental incompleto ou completo e/ou ensino médio completo. A maioria possui uma geladeira, um ou dois quartos, um banheiro, wi-fi, máquina de lavar roupas e freezer, mas não possui aspirador de pó. Parte dos estudantes deste nível passa a ter também computador, carro, mesa de estudos, garagem, forno de micro-ondas e uma ou duas televisões.
+Temos 5.295 (8,66%) dos não inscritos como treineiros no ENEM 2019 em Alagoas e que realizaram completamente as provas enquadrados no Nível IV do Inse. Neste nível, os estudantes estão até meio desvio-padrão abaixo da média nacional do Inse. Considerando a maioria dos estudantes, a mãe/responsável e o pai/responsável têm o ensino fundamental incompleto ou completo e/ou ensino médio completo. A maioria possui uma geladeira, um ou dois quartos, um banheiro, wi-fi, máquina de lavar roupas e freezer, mas não possui aspirador de pó. Parte dos estudantes deste nível passa a ter também computador, carro, mesa de estudos, garagem, forno de micro-ondas e uma ou duas televisões.
 
 O Gráfico 7 apresenta as medidas de tendência central para as notas das provas do ENEM 2019 no Nível IV do Inse em Alagoas.:
-- A mediana de 479,74 para Ciências da Natureza;
-- A mediana de 506,29 para Ciências Humanas;
-- A mediana de 527,18 para Linguagens e Códigos;
-- A mediana de 517,60 para Matemática;
-- A mediana de 608,94 para Redação.
+- A mediana de 489,9 para Ciências da Natureza;
+- A mediana de 528,8 para Ciências Humanas;
+- A mediana de 538,7 para Linguagens e Códigos;
+- A mediana de 538,7 para Matemática;
+- A mediana de 620,0 para Redação.
 
-||
+|![image](https://user-images.githubusercontent.com/1895529/145333840-d11415d8-d8d4-489b-b263-254b95f754aa.png)|
 |:--:|
 |Gráfico 7 - Notas das provas do ENEM 2019 no Nível IV do Inse em Alagoas.|
 
